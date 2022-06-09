@@ -1,0 +1,10 @@
+    .pink {
+        background-color: pink;
+        font-family:'Verdana, "DejaVu Sans", sans-serif';
+    }
+    .bold {
+        font-weight: bold;
+        color:blue;
+        font-size: larger;
+        
+    }
